@@ -1,0 +1,131 @@
+body h1{
+    text-align: center;
+    font-size: 250%;
+    font-weight: 20em;
+    font-style: normal;
+    margin-right: 1em;
+    margin-left: 1em;
+    color: white;
+    padding-top: 1em;
+    font-family: 'Tiny5';
+
+}
+body h2{
+    text-align: center;
+    font-size: 140%;
+    font-weight: 20em;
+    font-style: normal;
+    margin-right: 1em;
+    margin-left: 1em;
+    color: white;
+    padding: 1em;
+    font-family: 'Tiny5';
+}
+body h3{
+    text-align: center;
+    font-size: 140%;
+    font-weight: 20em;
+    font-style: normal;
+    margin-right: 1em;
+    margin-left: 1em;
+    color: black;
+    padding: 1em;
+    font-family: 'Tiny5';
+}
+body h4{
+    text-align: left;
+    font-size: 140%;
+    font-weight: 20em;
+    font-style: normal;
+    margin-right: 1em;
+    margin-left: 1em;
+    color: black;
+    padding: 1em;
+    font-family: 'Tiny5';
+
+}
+body{
+    display: block; 
+    min-height: 100%;
+    justify-content: space-between;
+  
+    font-family: "Overpass", serif;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    margin-top: -30%;
+
+}
+footer{
+    max-height: 6%;
+    position: fixed; bottom: 0;
+    padding: 0.3;
+    text-align: center;
+    color: black;
+    background-image: url(./hatter.jpg);
+    position: fixed;  left: 0; right: 0;
+    font-family: 'Tiny5';
+
+}
+header{
+    background-image: url(./hatter.jpg);
+    position: fixed; top: 0 ;
+    text-align: center;
+    min-height: 1%;
+    padding: 1em;
+    
+    
+    position: fixed;  left: 0; right: 0;
+}
+main{
+    margin-top: 10%;
+    margin-bottom: 8%;
+}
+html{
+    display: block;
+    background-color: #eddaca;
+    height: 100%;
+    overflow-y: scroll;
+}
+p{
+    text-indent: 3%;
+    text-align: left;
+    font-size: 130%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding: 1em;
+    color: black;
+}
+body ul{
+    
+    text-align: center;
+    font-size: 120%;
+    font-weight: 20em;
+    font-style: normal;
+    margin-right: 1em;
+    margin-left: 1em;
+    color: black;
+    font-family: 'Tiny5';
+}
+main{
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1em;
+}
+table, th, td{
+    width: 50%;
+    text-align: center;
+    font-size: 120%;
+    color: black;
+    margin-left: 25%;
+    margin-bottom: 1em;
+    margin-top: 1em;
+    border: 0.2em solid; 
+    font-family: 'Tiny5';
+}
+img {
+    padding: 4%;
+    width: 40%;
+    height: 40%;
+  }
+  
